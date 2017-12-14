@@ -606,6 +606,7 @@ public class Main {
 //        Pruduct pruduct2 = new Pruduct("aa", 20, 5, 10);
 //        Pruduct pruduct3 = new Pruduct("cc", 30, 4, 9);
 //        Pruduct pruduct4 = new Pruduct("bb", 40, 15,10);
+
 //
 //        List<Pruduct> list=new ArrayList<>();
 //        list.add(pruduct1);
